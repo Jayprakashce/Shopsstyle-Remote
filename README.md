@@ -1,1 +1,1 @@
-# Shopsstyle-Remote
+# Shopstyle-Remote
